@@ -7,7 +7,7 @@ int main() {
         freopen("output.txt", "w", stdout);
     #endif
     
-    cin << ABC << endl:
+
     
     
     return 0;
