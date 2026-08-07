@@ -14,8 +14,13 @@ Author- Daman Thakur
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dukthem/Leetcode/tree/master/0001-two-sum) |
+| [3945-digit-frequency-score](https://github.com/dukthem/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
 | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/dukthem/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
+## Math
+|  |
+| ------- |
+| [3945-digit-frequency-score](https://github.com/dukthem/Leetcode/tree/master/3945-digit-frequency-score) |
 <!---LeetCode Topics End-->
