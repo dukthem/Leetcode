@@ -1,3 +1,4 @@
+// TC: N^2 & SC: 1
 class Solution {
     public int subarraySum(int[] nums) {
        int ans = 0;  // this is the actual answer
