@@ -26,6 +26,7 @@ Author- Daman Thakur
 ## Math
 |  |
 | ------- |
+| [2652-sum-multiples](https://github.com/dukthem/Leetcode/tree/master/2652-sum-multiples) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dukthem/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3945-digit-frequency-score](https://github.com/dukthem/Leetcode/tree/master/3945-digit-frequency-score) |
 ## String
