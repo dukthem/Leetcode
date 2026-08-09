@@ -1,3 +1,4 @@
+// TC: O(N) & SC: O(1)
 class Solution {
     public int evenNumberBitwiseORs(int[] nums) {
         int s = 0;
