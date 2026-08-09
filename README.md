@@ -36,6 +36,7 @@ Author- Daman Thakur
 ## String
 |  |
 | ------- |
+| [0709-to-lower-case](https://github.com/dukthem/Leetcode/tree/master/0709-to-lower-case) |
 | [3838-weighted-word-mapping](https://github.com/dukthem/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Number Theory
 |  |
