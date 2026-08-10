@@ -9,6 +9,7 @@ Author- Daman Thakur
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dukthem/Leetcode/tree/master/0001-two-sum) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dukthem/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/dukthem/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dukthem/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/dukthem/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -47,6 +48,7 @@ Author- Daman Thakur
 ## Sorting
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dukthem/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/dukthem/Leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -57,4 +59,8 @@ Author- Daman Thakur
 |  |
 | ------- |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/dukthem/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dukthem/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
