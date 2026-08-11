@@ -1,3 +1,4 @@
+// TC:O(N) SC:O(1)
 class Solution {
     public int largestAltitude(int[] gain) {
         int ans = 0;
