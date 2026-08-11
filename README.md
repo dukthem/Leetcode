@@ -11,6 +11,7 @@ Author- Daman Thakur
 | [0001-two-sum](https://github.com/dukthem/Leetcode/tree/master/0001-two-sum) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dukthem/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dukthem/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1732-find-the-highest-altitude](https://github.com/dukthem/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/dukthem/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dukthem/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/dukthem/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -56,6 +57,7 @@ Author- Daman Thakur
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/dukthem/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/dukthem/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dukthem/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Bit Manipulation
