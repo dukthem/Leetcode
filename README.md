@@ -13,6 +13,7 @@ Author- Daman Thakur
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dukthem/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/dukthem/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/dukthem/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/dukthem/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/dukthem/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dukthem/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/dukthem/Leetcode/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -45,6 +46,7 @@ Author- Daman Thakur
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/dukthem/Leetcode/tree/master/0709-to-lower-case) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/dukthem/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3838-weighted-word-mapping](https://github.com/dukthem/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Number Theory
 |  |
@@ -77,4 +79,8 @@ Author- Daman Thakur
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/dukthem/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/dukthem/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
