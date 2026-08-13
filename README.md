@@ -87,4 +87,12 @@ Author- Daman Thakur
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/dukthem/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/dukthem/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/dukthem/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
