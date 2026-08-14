@@ -40,6 +40,7 @@ Author- Daman Thakur
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/dukthem/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dukthem/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/dukthem/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/dukthem/Leetcode/tree/master/2652-sum-multiples) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dukthem/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -91,6 +92,7 @@ Author- Daman Thakur
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dukthem/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dukthem/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
