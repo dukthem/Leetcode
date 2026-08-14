@@ -1,3 +1,4 @@
+// TC: O(L) & SC:O(1)
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -11,7 +12,7 @@
 class Solution {
     public int getDecimalValue(ListNode head) {
         int ans = 0;
-        long cnt = 0;
+        // long cnt = 0;
         ListNode curr = head;
         if (curr.next == null){
             if(curr.val == 1){
