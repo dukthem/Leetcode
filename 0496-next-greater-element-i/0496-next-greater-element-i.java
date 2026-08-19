@@ -1,3 +1,4 @@
+// TC: O(N^2) SC: O(1)
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
         int[] ans = new int[nums1.length];
