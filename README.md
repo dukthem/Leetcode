@@ -9,6 +9,7 @@ Author- Daman Thakur
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dukthem/Leetcode/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/dukthem/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dukthem/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dukthem/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/dukthem/Leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -28,6 +29,7 @@ Author- Daman Thakur
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dukthem/Leetcode/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/dukthem/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dukthem/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3731-find-missing-elements](https://github.com/dukthem/Leetcode/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/dukthem/Leetcode/tree/master/3945-digit-frequency-score) |
@@ -113,6 +115,7 @@ Author- Daman Thakur
 | ------- |
 | [0155-min-stack](https://github.com/dukthem/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/dukthem/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/dukthem/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -122,4 +125,8 @@ Author- Daman Thakur
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/dukthem/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/dukthem/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
