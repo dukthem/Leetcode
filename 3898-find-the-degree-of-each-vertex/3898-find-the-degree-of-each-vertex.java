@@ -1,3 +1,4 @@
+// TC: O(N*M) SC:O(1)
 class Solution {
     public int[] findDegrees(int[][] matrix) {
         // List<Integer> ans = new ArrayList<>();
