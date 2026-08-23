@@ -16,6 +16,7 @@ Author- Daman Thakur
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dukthem/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/dukthem/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/dukthem/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/dukthem/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2553-separate-the-digits-in-an-array](https://github.com/dukthem/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/dukthem/Leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/dukthem/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -32,6 +33,7 @@ Author- Daman Thakur
 | [0001-two-sum](https://github.com/dukthem/Leetcode/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/dukthem/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dukthem/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/dukthem/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/dukthem/Leetcode/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/dukthem/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Simulation
