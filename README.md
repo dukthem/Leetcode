@@ -129,6 +129,7 @@ Author- Daman Thakur
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/dukthem/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/dukthem/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/dukthem/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/dukthem/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/dukthem/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -155,6 +156,7 @@ Author- Daman Thakur
 | [0094-binary-tree-inorder-traversal](https://github.com/dukthem/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/dukthem/Leetcode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/dukthem/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/dukthem/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -162,6 +164,7 @@ Author- Daman Thakur
 | [0094-binary-tree-inorder-traversal](https://github.com/dukthem/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/dukthem/Leetcode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/dukthem/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/dukthem/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -173,6 +176,7 @@ Author- Daman Thakur
 | [0094-binary-tree-inorder-traversal](https://github.com/dukthem/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/dukthem/Leetcode/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/dukthem/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/dukthem/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
