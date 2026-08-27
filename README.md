@@ -162,6 +162,7 @@ Author- Daman Thakur
 | [0144-binary-tree-preorder-traversal](https://github.com/dukthem/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dukthem/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/dukthem/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/dukthem/Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -172,6 +173,7 @@ Author- Daman Thakur
 | [0144-binary-tree-preorder-traversal](https://github.com/dukthem/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dukthem/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/dukthem/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/dukthem/Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -186,6 +188,7 @@ Author- Daman Thakur
 | [0144-binary-tree-preorder-traversal](https://github.com/dukthem/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dukthem/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/dukthem/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/dukthem/Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
