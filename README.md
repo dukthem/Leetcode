@@ -21,6 +21,7 @@ Author- Daman Thakur
 | [2215-find-the-difference-of-two-arrays](https://github.com/dukthem/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2553-separate-the-digits-in-an-array](https://github.com/dukthem/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dukthem/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/dukthem/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/dukthem/Leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/dukthem/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dukthem/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -37,6 +38,7 @@ Author- Daman Thakur
 | [0496-next-greater-element-i](https://github.com/dukthem/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dukthem/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dukthem/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/dukthem/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3731-find-missing-elements](https://github.com/dukthem/Leetcode/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/dukthem/Leetcode/tree/master/3945-digit-frequency-score) |
 ## Simulation
