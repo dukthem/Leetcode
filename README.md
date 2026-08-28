@@ -165,6 +165,7 @@ Author- Daman Thakur
 | [0226-invert-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dukthem/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/dukthem/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/dukthem/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dukthem/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -181,6 +182,7 @@ Author- Daman Thakur
 | [0226-invert-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dukthem/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/dukthem/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/dukthem/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dukthem/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -201,6 +203,7 @@ Author- Daman Thakur
 | [0226-invert-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dukthem/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/dukthem/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/dukthem/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0965-univalued-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dukthem/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
