@@ -169,6 +169,7 @@ Author- Daman Thakur
 | [0226-invert-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dukthem/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/dukthem/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/dukthem/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0965-univalued-binary-tree) |
@@ -186,6 +187,7 @@ Author- Daman Thakur
 | [0226-invert-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dukthem/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/dukthem/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/dukthem/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0965-univalued-binary-tree) |
@@ -207,6 +209,7 @@ Author- Daman Thakur
 | [0226-invert-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/dukthem/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/dukthem/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/dukthem/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0965-univalued-binary-tree) |
