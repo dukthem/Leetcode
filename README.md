@@ -167,6 +167,7 @@ Author- Daman Thakur
 | [0144-binary-tree-preorder-traversal](https://github.com/dukthem/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dukthem/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/dukthem/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/dukthem/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -185,6 +186,7 @@ Author- Daman Thakur
 | [0144-binary-tree-preorder-traversal](https://github.com/dukthem/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dukthem/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/dukthem/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/dukthem/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -196,6 +198,7 @@ Author- Daman Thakur
 ## Binary Search Tree
 |  |
 | ------- |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/dukthem/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0938-range-sum-of-bst](https://github.com/dukthem/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -207,6 +210,7 @@ Author- Daman Thakur
 | [0144-binary-tree-preorder-traversal](https://github.com/dukthem/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dukthem/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/dukthem/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/dukthem/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -222,6 +226,7 @@ Author- Daman Thakur
 | [0104-maximum-depth-of-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/dukthem/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/dukthem/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0965-univalued-binary-tree) |
