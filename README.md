@@ -11,6 +11,7 @@ Author- Daman Thakur
 | [0001-two-sum](https://github.com/dukthem/Leetcode/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/dukthem/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0832-flipping-an-image](https://github.com/dukthem/Leetcode/tree/master/0832-flipping-an-image) |
+| [1051-height-checker](https://github.com/dukthem/Leetcode/tree/master/1051-height-checker) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dukthem/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dukthem/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1572-matrix-diagonal-sum](https://github.com/dukthem/Leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -82,6 +83,7 @@ Author- Daman Thakur
 ## Sorting
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/dukthem/Leetcode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dukthem/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/dukthem/Leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -257,4 +259,12 @@ Author- Daman Thakur
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dukthem/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/dukthem/Leetcode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/dukthem/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
