@@ -11,6 +11,7 @@ Author- Daman Thakur
 | [0001-two-sum](https://github.com/dukthem/Leetcode/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/dukthem/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0832-flipping-an-image](https://github.com/dukthem/Leetcode/tree/master/0832-flipping-an-image) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dukthem/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1051-height-checker](https://github.com/dukthem/Leetcode/tree/master/1051-height-checker) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dukthem/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dukthem/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -147,6 +148,7 @@ Author- Daman Thakur
 | [0155-min-stack](https://github.com/dukthem/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/dukthem/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/dukthem/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dukthem/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dukthem/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
@@ -161,6 +163,7 @@ Author- Daman Thakur
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/dukthem/Leetcode/tree/master/0496-next-greater-element-i) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dukthem/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Graph Theory
 |  |
 | ------- |
@@ -186,6 +189,7 @@ Author- Daman Thakur
 | [0872-leaf-similar-trees](https://github.com/dukthem/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/dukthem/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0965-univalued-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dukthem/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/dukthem/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/dukthem/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dukthem/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -223,6 +227,7 @@ Author- Daman Thakur
 | [0530-minimum-absolute-difference-in-bst](https://github.com/dukthem/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/dukthem/Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/dukthem/Leetcode/tree/master/0938-range-sum-of-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dukthem/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -244,6 +249,7 @@ Author- Daman Thakur
 | [0872-leaf-similar-trees](https://github.com/dukthem/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/dukthem/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0965-univalued-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dukthem/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/dukthem/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/dukthem/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/dukthem/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
