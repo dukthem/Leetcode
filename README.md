@@ -33,6 +33,7 @@ Author- Daman Thakur
 | [3731-find-missing-elements](https://github.com/dukthem/Leetcode/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/dukthem/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dukthem/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/dukthem/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/dukthem/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/dukthem/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
@@ -68,6 +69,7 @@ Author- Daman Thakur
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dukthem/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dukthem/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dukthem/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/dukthem/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3894-traffic-signal-color](https://github.com/dukthem/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3945-digit-frequency-score](https://github.com/dukthem/Leetcode/tree/master/3945-digit-frequency-score) |
 ## String
