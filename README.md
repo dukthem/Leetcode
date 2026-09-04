@@ -35,6 +35,7 @@ Author- Daman Thakur
 | [3875-construct-uniform-parity-array-i](https://github.com/dukthem/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/dukthem/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/dukthem/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3903-smallest-stable-index-i](https://github.com/dukthem/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/dukthem/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -101,6 +102,7 @@ Author- Daman Thakur
 | [2485-find-the-pivot-integer](https://github.com/dukthem/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/dukthem/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dukthem/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3903-smallest-stable-index-i](https://github.com/dukthem/Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
 | ------- |
