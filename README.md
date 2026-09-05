@@ -28,6 +28,7 @@ Author- Daman Thakur
 | [2778-sum-of-squares-of-special-elements](https://github.com/dukthem/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/dukthem/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/dukthem/Leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/dukthem/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/dukthem/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dukthem/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/dukthem/Leetcode/tree/master/3502-minimum-cost-to-reach-every-position) |
@@ -112,6 +113,7 @@ Author- Daman Thakur
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/dukthem/Leetcode/tree/master/0832-flipping-an-image) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/dukthem/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/dukthem/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Heap (Priority Queue)
 |  |
