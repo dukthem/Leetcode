@@ -39,6 +39,7 @@ Author- Daman Thakur
 | [3876-construct-uniform-parity-array-ii](https://github.com/dukthem/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/dukthem/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/dukthem/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/dukthem/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/dukthem/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@ Author- Daman Thakur
 | [3427-sum-of-variable-length-subarrays](https://github.com/dukthem/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dukthem/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/dukthem/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/dukthem/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
