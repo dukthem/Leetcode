@@ -9,6 +9,7 @@ Author- Daman Thakur
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dukthem/Leetcode/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/dukthem/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dukthem/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0496-next-greater-element-i](https://github.com/dukthem/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0654-maximum-binary-tree) |
@@ -102,6 +103,7 @@ Author- Daman Thakur
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/dukthem/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1051-height-checker](https://github.com/dukthem/Leetcode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dukthem/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/dukthem/Leetcode/tree/master/3731-find-missing-elements) |
@@ -150,6 +152,7 @@ Author- Daman Thakur
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dukthem/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0088-merge-sorted-array](https://github.com/dukthem/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dukthem/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/dukthem/Leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/dukthem/Leetcode/tree/master/0876-middle-of-the-linked-list) |
