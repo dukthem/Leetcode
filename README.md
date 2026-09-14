@@ -18,6 +18,7 @@ Author- Daman Thakur
 | [1051-height-checker](https://github.com/dukthem/Leetcode/tree/master/1051-height-checker) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dukthem/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dukthem/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/dukthem/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/dukthem/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dukthem/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/dukthem/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -72,6 +73,7 @@ Author- Daman Thakur
 | [1266-minimum-time-visiting-all-points](https://github.com/dukthem/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dukthem/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/dukthem/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/dukthem/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/dukthem/Leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/dukthem/Leetcode/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2485-find-the-pivot-integer](https://github.com/dukthem/Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -107,6 +109,7 @@ Author- Daman Thakur
 | [0088-merge-sorted-array](https://github.com/dukthem/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1051-height-checker](https://github.com/dukthem/Leetcode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dukthem/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/dukthem/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3731-find-missing-elements](https://github.com/dukthem/Leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -343,4 +346,12 @@ Author- Daman Thakur
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0654-maximum-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/dukthem/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/dukthem/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
