@@ -71,6 +71,7 @@ Author- Daman Thakur
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/dukthem/Leetcode/tree/master/0009-palindrome-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dukthem/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dukthem/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/dukthem/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
