@@ -151,6 +151,7 @@ Author- Daman Thakur
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dukthem/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/dukthem/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/dukthem/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/dukthem/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dukthem/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -167,6 +168,7 @@ Author- Daman Thakur
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/dukthem/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/dukthem/Leetcode/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dukthem/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
