@@ -9,6 +9,7 @@ Author- Daman Thakur
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dukthem/Leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/dukthem/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/dukthem/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dukthem/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0496-next-greater-element-i](https://github.com/dukthem/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -72,6 +73,7 @@ Author- Daman Thakur
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/dukthem/Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/dukthem/Leetcode/tree/master/0066-plus-one) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dukthem/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dukthem/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/dukthem/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
