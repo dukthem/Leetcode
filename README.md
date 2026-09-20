@@ -65,6 +65,7 @@ Author- Daman Thakur
 | [0832-flipping-an-image](https://github.com/dukthem/Leetcode/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dukthem/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/dukthem/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/dukthem/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/dukthem/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/dukthem/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/dukthem/Leetcode/tree/master/3894-traffic-signal-color) |
@@ -101,6 +102,7 @@ Author- Daman Thakur
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dukthem/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/dukthem/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/dukthem/Leetcode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
+| [3498-reverse-degree-of-a-string](https://github.com/dukthem/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/dukthem/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/dukthem/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Number Theory
