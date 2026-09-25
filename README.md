@@ -15,6 +15,7 @@ Author- Daman Thakur
 | [0496-next-greater-element-i](https://github.com/dukthem/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0832-flipping-an-image](https://github.com/dukthem/Leetcode/tree/master/0832-flipping-an-image) |
+| [0977-squares-of-a-sorted-array](https://github.com/dukthem/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dukthem/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1051-height-checker](https://github.com/dukthem/Leetcode/tree/master/1051-height-checker) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dukthem/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -113,6 +114,7 @@ Author- Daman Thakur
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dukthem/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/dukthem/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/dukthem/Leetcode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dukthem/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/dukthem/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -168,6 +170,7 @@ Author- Daman Thakur
 | [0557-reverse-words-in-a-string-iii](https://github.com/dukthem/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/dukthem/Leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/dukthem/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/dukthem/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dukthem/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Recursion
 |  |
