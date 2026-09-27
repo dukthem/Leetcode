@@ -99,6 +99,7 @@ Author- Daman Thakur
 | [0344-reverse-string](https://github.com/dukthem/Leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dukthem/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/dukthem/Leetcode/tree/master/0709-to-lower-case) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/dukthem/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dukthem/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dukthem/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/dukthem/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -346,6 +347,7 @@ Author- Daman Thakur
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/dukthem/Leetcode/tree/master/1051-height-checker) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/dukthem/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -362,6 +364,7 @@ Author- Daman Thakur
 ## Greedy
 |  |
 | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/dukthem/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/dukthem/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Game Theory
 |  |
