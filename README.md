@@ -56,6 +56,7 @@ Author- Daman Thakur
 | [0496-next-greater-element-i](https://github.com/dukthem/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dukthem/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/dukthem/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2325-decode-the-message](https://github.com/dukthem/Leetcode/tree/master/2325-decode-the-message) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/dukthem/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dukthem/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/dukthem/Leetcode/tree/master/3731-find-missing-elements) |
@@ -104,6 +105,7 @@ Author- Daman Thakur
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dukthem/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/dukthem/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/dukthem/Leetcode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
+| [2325-decode-the-message](https://github.com/dukthem/Leetcode/tree/master/2325-decode-the-message) |
 | [3498-reverse-degree-of-a-string](https://github.com/dukthem/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/dukthem/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/dukthem/Leetcode/tree/master/3894-traffic-signal-color) |
