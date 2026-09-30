@@ -105,6 +105,7 @@ Author- Daman Thakur
 | [1221-split-a-string-in-balanced-strings](https://github.com/dukthem/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dukthem/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dukthem/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/dukthem/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/dukthem/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/dukthem/Leetcode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2325-decode-the-message](https://github.com/dukthem/Leetcode/tree/master/2325-decode-the-message) |
@@ -123,6 +124,7 @@ Author- Daman Thakur
 | [1051-height-checker](https://github.com/dukthem/Leetcode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dukthem/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/dukthem/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1859-sorting-the-sentence](https://github.com/dukthem/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [3731-find-missing-elements](https://github.com/dukthem/Leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -356,6 +358,7 @@ Author- Daman Thakur
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/dukthem/Leetcode/tree/master/1051-height-checker) |
+| [1859-sorting-the-sentence](https://github.com/dukthem/Leetcode/tree/master/1859-sorting-the-sentence) |
 ## Divide and Conquer
 |  |
 | ------- |
