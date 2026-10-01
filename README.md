@@ -33,6 +33,7 @@ Author- Daman Thakur
 | [2553-separate-the-digits-in-an-array](https://github.com/dukthem/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dukthem/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/dukthem/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/dukthem/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/dukthem/Leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dukthem/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/dukthem/Leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
@@ -68,6 +69,7 @@ Author- Daman Thakur
 | [0832-flipping-an-image](https://github.com/dukthem/Leetcode/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dukthem/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2553-separate-the-digits-in-an-array](https://github.com/dukthem/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/dukthem/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/dukthem/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/dukthem/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/dukthem/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -179,6 +181,7 @@ Author- Daman Thakur
 | [0876-middle-of-the-linked-list](https://github.com/dukthem/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/dukthem/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dukthem/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/dukthem/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Recursion
 |  |
 | ------- |
