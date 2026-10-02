@@ -89,6 +89,7 @@ Author- Daman Thakur
 | [2485-find-the-pivot-integer](https://github.com/dukthem/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/dukthem/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/dukthem/Leetcode/tree/master/2652-sum-multiples) |
+| [3099-harshad-number](https://github.com/dukthem/Leetcode/tree/master/3099-harshad-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dukthem/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dukthem/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/dukthem/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
