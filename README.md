@@ -33,6 +33,7 @@ Author- Daman Thakur
 | [2553-separate-the-digits-in-an-array](https://github.com/dukthem/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dukthem/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/dukthem/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/dukthem/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dukthem/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/dukthem/Leetcode/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dukthem/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -60,6 +61,7 @@ Author- Daman Thakur
 | [2215-find-the-difference-of-two-arrays](https://github.com/dukthem/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2325-decode-the-message](https://github.com/dukthem/Leetcode/tree/master/2325-decode-the-message) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/dukthem/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2965-find-missing-and-repeated-values](https://github.com/dukthem/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/dukthem/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/dukthem/Leetcode/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/dukthem/Leetcode/tree/master/3945-digit-frequency-score) |
@@ -90,6 +92,7 @@ Author- Daman Thakur
 | [2520-count-the-digits-that-divide-a-number](https://github.com/dukthem/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/dukthem/Leetcode/tree/master/2652-sum-multiples) |
 | [2843-count-symmetric-integers](https://github.com/dukthem/Leetcode/tree/master/2843-count-symmetric-integers) |
+| [2965-find-missing-and-repeated-values](https://github.com/dukthem/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/dukthem/Leetcode/tree/master/3099-harshad-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/dukthem/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/dukthem/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -159,6 +162,7 @@ Author- Daman Thakur
 | ------- |
 | [0832-flipping-an-image](https://github.com/dukthem/Leetcode/tree/master/0832-flipping-an-image) |
 | [1572-matrix-diagonal-sum](https://github.com/dukthem/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/dukthem/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/dukthem/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## String Matching
 |  |
