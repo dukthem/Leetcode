@@ -24,7 +24,5 @@ class Solution {
         } else {
             return ans;
         }
-        
-
     }
 }
