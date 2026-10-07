@@ -15,6 +15,7 @@ Author- Daman Thakur
 | [0496-next-greater-element-i](https://github.com/dukthem/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0654-maximum-binary-tree](https://github.com/dukthem/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0832-flipping-an-image](https://github.com/dukthem/Leetcode/tree/master/0832-flipping-an-image) |
+| [0877-stone-game](https://github.com/dukthem/Leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/dukthem/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/dukthem/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1051-height-checker](https://github.com/dukthem/Leetcode/tree/master/1051-height-checker) |
@@ -82,6 +83,7 @@ Author- Daman Thakur
 | ------- |
 | [0009-palindrome-number](https://github.com/dukthem/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/dukthem/Leetcode/tree/master/0066-plus-one) |
+| [0877-stone-game](https://github.com/dukthem/Leetcode/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/dukthem/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/dukthem/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/dukthem/Leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
@@ -386,5 +388,18 @@ Author- Daman Thakur
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/dukthem/Leetcode/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/dukthem/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/dukthem/Leetcode/tree/master/0877-stone-game) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/dukthem/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/dukthem/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
