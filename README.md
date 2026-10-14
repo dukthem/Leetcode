@@ -116,6 +116,7 @@ Author- Daman Thakur
 | [1021-remove-outermost-parentheses](https://github.com/dukthem/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/dukthem/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/dukthem/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/dukthem/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dukthem/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/dukthem/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/dukthem/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -191,6 +192,7 @@ Author- Daman Thakur
 | [0832-flipping-an-image](https://github.com/dukthem/Leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/dukthem/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/dukthem/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/dukthem/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/dukthem/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dukthem/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Recursion
